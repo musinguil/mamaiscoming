@@ -1,0 +1,5 @@
+#!/bin/bash
+cp -fv mamaiscoming /usr/local/bin
+cp -fv mamaiscoming.py /usr/local/bin
+chmod +x /usr/local/bin/mamaiscoming
+chmod +x /usr/local/bin/mamaiscoming.py
